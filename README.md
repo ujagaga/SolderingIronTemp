@@ -5,3 +5,5 @@ since I don't really notice much difference between 350 and 380 degrees when sol
 colder for small SMDs and hotter for more massive pieces. i am very happy with how this works and it is extreemly cheap.
 The PCB is made for DOT PCB Perfboard (2.5mm holle dostance) so no PCB printing is necessary. Resistors and capacitors are SMD 0805 and they fit 
 nicelly between two dots and under the OpAmp.
+
+The schematic and PCB was done in KiCad, but you can just use the PNG images.
